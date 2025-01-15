@@ -117,7 +117,7 @@ const CONNECT = () => {
       {/* Left Section with Logo */}
       <div className="connect-left">
         <div className="logo-container">
-          <div className="logo">
+          <div className="bg-gradient-to-r from-yellow-400 to-yellow-600 w-8 h-8 rounded-full flex items-center justify-center">
             <span>M</span>
           </div>
         </div>
@@ -145,7 +145,7 @@ const CONNECT = () => {
         <div className="contact-info">
           <p>Get in touch</p>
           <div className="contact-item">
-            <FaSquarePhone className="icon yellow" />
+            <FaSquarePhone className="icon white" />
             <a href="tel:+91 7438092177">+91 743 809 2177</a>
           </div>
           <div className="contact-item">

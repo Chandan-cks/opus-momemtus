@@ -12,12 +12,12 @@ export default function GetInTouchPopup({ isVisible, togglePopup }) {
       ></div>
 
       {/* Popup Content */}
-      <div className="fixed inset-0 flex items-center justify-center z-50">
-        <div className="bg-gray-900 text-white w-[90%] max-w-md rounded-lg shadow-lg p-6 relative">
+      <div className="fixed inset-0 flex items-center justify-center z-50 p-4">
+        <div className="bg-gray-900 text-white w-full max-w-md rounded-lg shadow-lg p-6 relative">
           {/* Close Button */}
           <button
             onClick={togglePopup}
-            className="absolute top-3 right-3 text-white hover:text-gray-400"
+            className="absolute top-3 right-3 text-white hover:text-gray-400 focus:outline-none"
             aria-label="Close popup"
           >
             ✕

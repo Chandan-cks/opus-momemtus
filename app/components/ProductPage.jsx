@@ -8,7 +8,7 @@ import { HiArrowCircleRight } from "react-icons/hi";
 const ProductPage = () => {
   return (
     <div className="product-page">
-      <h1 className="text-4xl font-bold text-white" style={{marginTop:'50px'}}>Our products and services</h1>
+      <h1 className="text-4xl font-bold text-white" style={{marginTop:'50px',marginBottom:'50px'}}>Our products and services</h1>
         <img src="/Background.png" alt="Background" className='background-img my-10' style={{width: '93%', height:'600px'}} />
       <div className="hero-section">
         <div className="hero-text">
