@@ -1,0 +1,32 @@
+.invite-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px; /* Adjust padding as needed */
+    background-color: #1a1a1a; /* Dark background color */
+    color: #ffffff; /* White text color */
+  }
+  
+  .invite-text {
+    flex: 1;
+    margin-right: 50px; /* Adjust margin as needed */
+  }
+  
+  .invite-button {
+    background-color: #ffdd00; /* Yellow button color */
+    color: #000000; /* Black text color */
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .invite-image {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .invite-image img {
+    max-width: 500px; /* Adjust max-width as needed */
+    height: auto;
+  }
