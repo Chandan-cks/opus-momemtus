@@ -1,5 +1,5 @@
 "use client"; // Add this at the top
-import { useRef } from "react";
+import { useRef, useEffect } from "react";
 import Navbar from "./components/navbar";
 import MainPage from "./components/mainpage";
 import AboutUsCard from "./components/AboutUsCard";
@@ -18,6 +18,13 @@ export default function Home() {
   const approchPageRef = useRef<HTMLDivElement>(null); // Ref for APPROCH section
   const homePageRef = useRef<HTMLDivElement>(null); // Ref for APPROCH section
 
+  useEffect(() => {
+    // Scroll to MainPage on initial render
+    if (homePageRef.current) {
+      homePageRef.current.scrollIntoView({ behavior: "smooth" });
+    }
+  }, []);
+  
   const handleScrollToAboutUs = () => {
     if (aboutUsRef.current) {
       aboutUsRef.current.scrollIntoView({ behavior: "smooth" });

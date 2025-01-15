@@ -25,7 +25,7 @@ const Approach = () => {
   ];
 
   return (
-    <div className="approach-container" style={{marginTop:'3%', height: '600px'}}>
+    <div className="approach-container">
       <h2 className="text-5xl font-bold" style={{marginTop:'50px', color:'white', textAlign:'center'}}>Our Approach</h2>
       <p style={{marginTop:'10px', color:'white', textAlign:'center'}}>At Opus Momentus, we focus on market-neutral, short-term strategies designed to leverage volatility while minimizing risk.</p>
 

@@ -22,7 +22,7 @@ const Modal = ({ isOpen, closeModal }) => {
   };
 
   const modalContentStyle = {
-    backgroundColor: "white",
+    backgroundColor: "black",
     padding: "40px",
     borderRadius: "8px",
     maxWidth: "800px", // Limit the width for larger screen sizes
@@ -61,109 +61,11 @@ const Modal = ({ isOpen, closeModal }) => {
         onClick={(e) => e.stopPropagation()}
       >
         <h2>Privacy Policy</h2>
-        <p style={{color:'black'}}>
+        <p style={{color:'white'}}>
                 Privacy policy Last updated on August 2024 This policy describes
                 how Opus Momentus Proprietary Ltd ("OM") treat personal
                 information collected on the OM www.opusmomentus.com website.
-                This policy does not apply to information that OM may collect
-                through other means. Personal information When you visit a
-                Website, OM may collect certain personal information about you,
-                such as your name, address, and email address, as well as any
-                other personal information that you may provide - for example,
-                through submission of forms or other documents. Non-personal
-                information OM will also collect the following non-personal
-                information about your visit(s): ⚫ the IP address and domain
-                name used (the IP address is a numerical identifier assigned
-                either to your Internet service provider or directly to your
-                computer); ⚫ the type of browser and operating system you use;
-                and ⚫ the date, time, and duration for which you visit a
-                Website, the number of times you have visited a Website, and
-                where you come from. For purposes of collecting some of the
-                above-referenced information, OM uses tracking tools on its
-                Websites, such as browser cookies and web beacons. A cookie and
-                a web beacon are pieces of data stored on your device containing
-                information about your visit. Third-party analytics service
-                providers, such as Google Analytics, may use cookies and web
-                beacons through a Website to provide OM with information about
-                how you use and interact with the Website. How OM uses
-                information that it collects OM uses information it collects in
-                the following ways: ⚫ to respond to your requests or questions
-                ⚫ to inform you about OM ⚫ to communicate with you about your
-                relationship with us ⚫ to improve a Website and the services
-                provided ⚫ for security purposes. In addition, OM may use your
-                information as otherwise permitted by law. OM may share your
-                information in limited circumstances OM may share your
-                information with its employees, agents, or third-party service
-                providers who need to know such information for purposes of
-                performing their jobs, including to respond to requests or
-                questions that you may have. In addition, OM may share your
-                information with third parties for purposes of complying with
-                legal requirements or to respond to legal requests, such as in
-                the case of a court order or subpoena or in connection with a
-                regulatory investigation. Finally, OM might also share
-                information that it collects with others when it is
-                investigating potential fraud or for other reasons as permitted
-                by law. Protection of information OM is strongly committed to
-                protecting any personal information collected through a Website
-                against unauthorized access, use, or disclosure. OM will not
-                sell or otherwise disclose any personal information collected
-                from a Website, other than as described herein. In addition, OM
-                has implemented procedures to safeguard the integrity of its
-                information technology assets, including but not limited to
-                authentication, monitoring, auditing, and encryption. These
-                security procedures have been integrated into the design,
-                implementation, and day-to-day operations of a Website as part
-                of a continuing commitment to the security of electronic content
-                as well as the electronic transmission of information. For
-                security purposes, OM employs software to monitor traffic to
-                identify unauthorized attempts to upload or change information
-                or otherwise damage a Website. Any information that an
-                individual provides to OM by visiting a Website will be stored
-                within Australia. If you live outside of the United States, you
-                understand and agree that OM may store your information in
-                Australia. Each Website is subject to Australian law, which may
-                or may not afford the same level of protection as those in your
-                country. Tracking tools As indicated above, OM collects
-                non-personal information on its Websites through the use of
-                tracking tools, such as browser cookies. Your browser may give
-                you the ability to control cookies. How you do so depends on the
-                type of cookie. Certain browsers can be set to reject browser
-                cookies. Options you select are browser and device specific. If
-                you block or delete cookies, not all of the tracking that we
-                have described in this policy will stop. Some websites have "do
-                not track” features that allow you to tell a website not to
-                track you. These features are not all uniform. OM does not
-                currently respond to those signals. If you block cookies,
-                certain features on OM's sites may not work. If you block or
-                reject cookies, not all of the tracking described herein will
-                stop. Children and websites Each Website is meant for adults. OM
-                does not knowingly collect personally identifiable information
-                from children under age 13. If you are a parent or legal
-                guardian of a child under 13 who believes that child may have
-                visited an OM web site, please contact the address below. Links
-                to other sites or third-party services If a link to a
-                third-party site is included on a Website and you click on it,
-                you will be taken to a website OM does not control. This Policy
-                does not apply to the privacy practices of that website. Read
-                the privacy policy of other websites carefully. We are not
-                responsible for these third-party sites. Disclaimer and policy
-                updates This Policy should not be construed as giving business,
-                legal, or other advice or warranting as fail-proof the security
-                of information provided through the Website. The Internet is not
-                100% secure, and OM cannot promise that your use of a Website or
-                software will be completely safe. OM disclaims any liability
-                with respect to any information obtained by a third party
-                through illegal entry into or breach of a Website. OM will
-                maintain all information as long as needed to comply with
-                internal policies or applicable laws or for record-keeping
-                purposes. OM will notify you of any material changes in this
-                policy by posting an updated copy on the applicable Websites.
-                Please check the applicable Website periodically for updates.
-                Contact information For questions regarding this privacy policy,
-                please contact info@omproprietary.com. OM will notify you of any
-                material changes in this policy by posting an updated copy on
-                the applicable Websites. Please check the applicable Website
-                periodically for updates.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia asperiores aliquid odio amet, eligendi perferendis hic minus ea ducimus! Deleniti, quos recusandae voluptate quaerat suscipit itaque, quisquam, facilis soluta alias provident necessitatibus sunt. Nostrum laboriosam excepturi facilis quaerat saepe libero non blanditiis nesciunt eius autem, culpa aspernatur optio perferendis ab itaque, dolore quo delectus. Perspiciatis obcaecati reprehenderit voluptas, cum sapiente accusantium quae! Ipsam placeat neque eius necessitatibus tenetur, totam sint non voluptas laboriosam esse. Ducimus, dicta perferendis voluptate eos repellat culpa quidem commodi hic neque, officiis quaerat cum. Velit facilis sapiente repellendus praesentium tempore ipsam omnis nostrum aspernatur, nesciunt modi itaque voluptate numquam magnam, impedit culpa quis laboriosam est atque odio. Ducimus, asperiores! Perferendis, ea recusandae dolorum in consequatur rerum odit reprehenderit? Facilis omnis consequuntur commodi perferendis obcaecati, eveniet ipsam velit hic sunt, sapiente corrupti recusandae ipsum. Culpa deserunt optio perspiciatis corporis. Libero veritatis, at quas earum porro temporibus corporis tempore natus eum incidunt? Architecto in deleniti, mollitia voluptas error expedita voluptatem reprehenderit a laborum quasi cumque beatae dolore corrupti! Fuga id repudiandae assumenda eligendi quisquam! Esse, totam. Facere esse nam est consequatur reprehenderit sint sit aliquam distinctio maxime possimus doloremque totam quia temporibus quod dolor minus numquam, voluptate cupiditate modi aliquid? Est consequatur ab, at nam ducimus officiis. Sit, sunt, veniam soluta accusantium, modi quam maiores sapiente tempore porro iusto et adipisci velit! Maxime porro maiores omnis ipsum quasi cupiditate necessitatibus provident vitae tempora, illo voluptates nam sint animi ea ab itaque expedita aliquid eos. Voluptas earum dolores porro sunt modi neque soluta dignissimos quidem! Fugit, voluptas quibusdam. At harum aut eum provident porro voluptate blanditiis non ex. Sapiente accusantium nemo molestias quae eum, voluptates consequuntur commodi beatae. Repellendus, velit distinctio quam repudiandae consectetur blanditiis minus voluptas sequi nulla a reprehenderit laboriosam mollitia cupiditate aperiam dolores doloremque voluptatem fuga dolorum aliquam. Aperiam, ullam. Consectetur reprehenderit labore optio quam porro suscipit quasi non, sunt nam, impedit incidunt nisi distinctio, fugit quas hic odit? Ratione sapiente exercitationem qui, nihil, dignissimos veritatis atque cumque fuga minus praesentium magni. Optio debitis ducimus dolorum laboriosam sint veniam. Aut molestiae velit libero mollitia sint, accusantium tenetur quia vel odit, harum rem ab saepe, qui nulla reiciendis possimus dolores? Error, nam voluptatibus voluptatem ipsa facilis eius sunt placeat delectus temporibus deleniti hic distinctio doloribus corporis atque assumenda necessitatibus consequuntur dolore. Sed provident necessitatibus numquam eum explicabo atque odio quisquam nostrum. Odio impedit quibusdam amet natus sed sit atque eligendi maxime ullam quam magni eum, porro placeat assumenda consequuntur exercitationem. Recusandae, consequatur ut blanditiis est doloribus asperiores assumenda sunt neque? Quisquam, veniam! Nostrum quaerat excepturi numquam sit et voluptatum est deleniti, repellendus, accusantium pariatur quasi ad alias necessitatibus id. Tempore perferendis reprehenderit ea nobis veritatis iure magnam fugit dolor nostrum quod. Quis iusto consectetur quia? Deleniti, assumenda. Rerum, sed? Aspernatur, obcaecati voluptatum. Incidunt dolorem ipsum omnis suscipit quia! Laborum quasi dolorum quas, quos nobis enim voluptate itaque rerum similique earum soluta quibusdam eos odio tempore quisquam corrupti molestiae? Facere, veritatis? Ut expedita corrupti ex dignissimos, laboriosam aspernatur.
               </p>
         <button
           style={buttonStyle}

@@ -19,14 +19,14 @@ const ProductPage = () => {
         <img src="/product2.jpg" alt="Product 2" className="hero-image" />
       </div>
 
-      <div className="product-cards my-5">
+      <div className="product-cards my-5" style={{width: '93%', height:'500px',marginLeft: '5%'}}>
         <div className="product-card">
           <h3 className="text-4xl font-bold text-black my-5">Stable returns with global reach</h3>
           <p>ODN delivers low-risk returns using proven strategies and advanced financial models that excel in volatility. Accessible through the OROX app as a robust, high-yield investment solution.</p>
           <img src="/product1.jpg" alt="Product 1" className='timg1' />
         </div>
 
-        <div className="product-card" style={{backgroundColor:'#19191B'}}>
+        <div className="product-card" style={{backgroundColor:'#19191B', width: '93%', height:'500px'}}>
           <img src="/image.png" alt="logo" className='logo-m' />
           <img src="/product3.jpg" alt="Product 3" className='timg2' />
           <h3 className="text-4xl font-bold text-white my-4">High performance digital token</h3>
